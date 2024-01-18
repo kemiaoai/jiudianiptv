@@ -12,7 +12,7 @@ on:
 
         description: Run task every day at 4:00 PM
 
-        cron: "0 16 * * *"
+        cron: "0 9,16 * * *"
 
     branches:
 
